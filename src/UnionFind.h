@@ -5,9 +5,7 @@
 #ifndef DATASTRUCTURES_UNIONFIND_H
 #define DATASTRUCTURES_UNIONFIND_H
 
-
 #include <vector>
-#include <iostream>
 
 class UnionFind {
 public:
