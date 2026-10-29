@@ -3,3 +3,4 @@
 
 - UnionFind / DisjointSet
 - HashMap
+- CircularQueue
