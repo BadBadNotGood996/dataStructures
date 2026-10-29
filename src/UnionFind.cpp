@@ -4,6 +4,9 @@
 
 #include "UnionFind.h"
 
+#include <iostream>
+
+
 UnionFind::UnionFind(int size) {
     m_root.resize(size);
 

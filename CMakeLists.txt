@@ -7,4 +7,6 @@ add_executable(dataStructures main.cpp
         src/UnionFind.cpp
         src/UnionFind.h
         src/HashMap.cpp
-        src/HashMap.h)
+        src/HashMap.h
+        src/CircularQueue.cpp
+        src/CircularQueue.h)
